@@ -8,4 +8,4 @@
 
 ![google clone pic](google-clone-screenshot.png)
 
-### <p align="center" The website is made using HTML5 , CSS3 , Bootstrap v5.2 , Javascript .</p>
+### <p align="center"> The website is made using HTML5 , CSS3 , Bootstrap v5.2 , Javascript .</p>
