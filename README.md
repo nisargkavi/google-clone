@@ -1,7 +1,7 @@
 # google-clone
 
 
-### <p align="center"> Front End Clone of Google Search Homepage </p>
+### <p align="center"> Clone of Google Search Homepage </p>
 
 ### <p align="center"> ✨ [DEMO](https://champproject6.netlify.app/) </p>
 
