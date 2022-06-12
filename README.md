@@ -11,5 +11,5 @@ Run it at:
 ### <p align="center"> ✨ [DEMO](https://google-clone-by-samarpan.netlify.app/) </p>
 
 
-![google clone pic]()
+![google clone pic](google-clone-screenshot.png)
 
