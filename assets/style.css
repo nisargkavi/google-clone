@@ -293,5 +293,13 @@ footer {
 
     .lower-left-footer {
         flex-wrap: wrap;
+        justify-content: center;
+        padding-left: 0px;
+    }
+
+    .lower-left-footer {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-left: 0px;
     }
 }
